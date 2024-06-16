@@ -1,0 +1,10 @@
+EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MLS 1  " tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-mia-prd/mf2ocwk3psfeygyg9hnt.png" group-title="|| M L S ||",MLS 1  
+http://wabot.win:8080/Lzz5vXZwtNgX/4MdpB5Kta8S4/442113
+#EXTINF:-1 tvg-id="" tvg-name="MLS 2 " tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-mia-prd/mf2ocwk3psfeygyg9hnt.png" group-title="|| M L S ||",MLS 2 
+http://wabot.win:8080/Lzz5vXZwtNgX/4MdpB5Kta8S4/442114
+#EXTINF:-1 tvg-id="" tvg-name="MLS 4" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-mia-prd/mf2ocwk3psfeygyg9hnt.png" group-title="|| M L S ||",MLS 4
+http://wabot.win:8080/Lzz5vXZwtNgX/4MdpB5Kta8S4/442116
+#EXTINF:-1 tvg-id="" tvg-name="MLS 5" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-mia-prd/mf2ocwk3psfeygyg9hnt.png" group-title="|| M L S ||",MLS 5
+http://wabot.win:8080/Lzz5vXZwtNgX/4MdpB5Kta8S4/442117
+#EXTINF:-1 tvg-id="" tvg-name="MLS 3" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-mia-prd/mf2ocwk3psfeygyg9hnt.png" group-title="|| M L S ||",MLS 3
